@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🔭 I’m currently working on Air-Fi with Django 😄 </br>
-🌱 I’m a Backend developer with Django, Node.js, Dockers, Sql and NoSql databases </br>
-🌱 I’m a Frontend developer with Vue and React </br>
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things. I love python </br>
-⚡ I like Penguins and Linux </br>
+- 🔭 I’m currently working on Air-Fi with Django 😄 </br>
+- 🌱 I’m a Backend developer with Django, Node.js, Dockers, Sql and NoSql databases </br>
+- 🌱 I’m a Frontend developer with Vue and React </br>
+- 💻 I am passionate about Web Dev & I enjoy learning new things. I love python </br>
+- ⚡ I like Penguins and Linux </br>
 
 ![Jhon Robert github stats](https://github-readme-stats.vercel.app/api?username=JhonRobert20&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Jhon Robert Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JhonRobert20&layout=compact&langs_count=8&hide_border=true)
