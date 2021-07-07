@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="left" width="24px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
-<a href="mailto:jhonbara51214h@gmail.com">
+<a href="mailto:jhonbara51214@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://jhonrobert20.github.io/jhonrobert/">
