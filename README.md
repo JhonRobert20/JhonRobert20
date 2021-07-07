@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+------>
 
 
 <a href="https://www.linkedin.com/in/jhon-robert-matamoros-vitonera-a084841b7/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
 <a href="mailto:jhonbara51214h@gmail.com">
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 🌱 I’m a Backend developer with Django, Node.js, Dockers, Sql and NoSql databases </br>
 🌱 I’m a Frontend developer with Vue and React </br>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. I love python </br>
+⚡ I like Penguins and Linux </br>
 
 ![Jhon Robert github stats](https://github-readme-stats.vercel.app/api?username=JhonRobert20&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Jhon Robert Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JhonRobert20&layout=compact&langs_count=8&hide_border=true)
