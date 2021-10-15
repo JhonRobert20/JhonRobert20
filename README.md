@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-- 🔭 I’m currently working on Air-Fi with Django 😄 </br>
+- 🔭 My last work was on Air-Fi with Django 😄 </br>
+- 🔭 Now I'm working with two partners in our own project 😄😄😄 </br>
 - 🌱 I’m a Backend developer with Django, Node.js, Dockers, Sql and NoSql databases </br>
 - 🌱 I’m a Frontend developer with Vue and React </br>
 - 💻 I am passionate about Web Dev & I enjoy learning new things. I love python </br>
