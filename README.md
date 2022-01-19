@@ -65,8 +65,8 @@
 ## If you want to contact me
 
 
-[![Email](https://img.shields.io/badge/-jhonbara51214@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:jhonbara51214@gmail.com)
-[![Portfolio](https://img.shields.io/website?color=blue&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjhonrobert20.github.io%2Fjhonrobert)](https://jhonrobert20.github.io/jhonrobert/)
-[![Linkedin](https://img.shields.io/badge/-JhonRobert-05122A?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/martareyrodriguez/?locale=es_ES)
+[![Email](https://img.shields.io/badge/-jhonbara51214@gmail.com-05122A?style=flat&logo=gmail&color=purple)](mailto:jhonbara51214@gmail.com)
+[![Portfolio](https://img.shields.io/website?color=purple&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjhonrobert20.github.io%2Fjhonrobert)](https://jhonrobert20.github.io/jhonrobert/)
+[![Linkedin](https://img.shields.io/badge/-JhonRobert-05122A?style=flat&logo=linkedin&color=purple)](https://www.linkedin.com/in/jhon-robert-matamoros-vitonera-a084841b7/)
 
 ![mosaicodownrealGH](https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
