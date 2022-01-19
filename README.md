@@ -1,41 +1,71 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jhon Robert!](https://www.linkedin.com/in/jhon-robert-matamoros-vitonera-a084841b7/) 
-<!--
-**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Initial Foto](https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80)
+<div align="center">
+  
+# Hey 👋 , I'm [Jhon Robert!](https://www.linkedin.com/in/jhon-robert-matamoros-vitonera-a084841b7/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
------->
+</div>
 
 
-<a href="https://www.linkedin.com/in/jhon-robert-matamoros-vitonera-a084841b7/">
-  <img align="left" width="24px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
+<div align="left">
 
-<a href="mailto:jhonbara51214@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://jhonrobert20.github.io/jhonrobert/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-</a>
+## About Me 🚀:
+🔭 My last work was on Air-Fi with Django 😄 </br>
+🔭 Now I'm working with two partners in our own project 😄😄😄 </br>
+🌱 I’m a Backend developer with Django, Node.js, Dockers, Sql and NoSql databases </br>
+🌱 I’m a Frontend developer with Vue and React </br>
+💻 I am passionate about Web Dev & I enjoy learning new things. I love python </br>
+⚡ I like Penguins and Linux </br>
+</div> 
+<br/>
 
-<br />
 
-### About Me 🚀
-- 🔭 My last work was on Air-Fi with Django 😄 </br>
-- 🔭 Now I'm working with two partners in our own project 😄😄😄 </br>
-- 🌱 I’m a Backend developer with Django, Node.js, Dockers, Sql and NoSql databases </br>
-- 🌱 I’m a Frontend developer with Vue and React </br>
-- 💻 I am passionate about Web Dev & I enjoy learning new things. I love python </br>
-- ⚡ I like Penguins and Linux </br>
+<div align="left">
 
-![Jhon Robert github stats](https://github-readme-stats.vercel.app/api?username=JhonRobert20&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Jhon Robert Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JhonRobert20&layout=compact&langs_count=8&hide_border=true)
-<br />
+## 🛠 Tech Stack:
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+<div />
+
+<br/>
+
+##  Other frequently used tools:
+
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
+![Zeplin](https://img.shields.io/badge/-Zeplin-05122A?style=flat&logo=zeplin)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;   
+
+<br/>
+
+## GitHub Analytics
+
+![Jhon Robert github stats](https://github-readme-stats.vercel.app/api?username=jhonrobert20&theme=nightowl&show_icons=true)
+![Jhon Robert Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JhonRobert20&theme=nightowl&layout=compact&langs_count=8)
+
+<div align="center">
+
+## If you want to contact me
+
+
+[![Email](https://img.shields.io/badge/-jhonbara51214@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:jhonbara51214@gmail.com)
+[![Portfolio](https://img.shields.io/website?color=blue&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjhonrobert20.github.io%2Fjhonrobert)](https://jhonrobert20.github.io/jhonrobert/)
+[![Linkedin](https://img.shields.io/badge/-JhonRobert-05122A?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/martareyrodriguez/?locale=es_ES)
+
+![mosaicodownrealGH](https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
