@@ -27,7 +27,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -48,7 +50,6 @@
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
-![Zeplin](https://img.shields.io/badge/-Zeplin-05122A?style=flat&logo=zeplin)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;   
 
